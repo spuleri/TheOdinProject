@@ -1,0 +1,32 @@
+.center {
+
+	position: absolute;
+    height: 200px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+	
+}
+
+input{
+	width: 700px;
+	position: relative; /*idk if does anything*/
+
+}
+
+.navbar{
+	float: right;
+	padding-right: 30px;
+}
+
+li{
+	display: inline-block;
+	width: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
