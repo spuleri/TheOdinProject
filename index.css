@@ -6,27 +6,73 @@
     margin: -100px 0 0 -200px;
     top: 50%;
     left: 50%;
+
 	
 }
 
 input{
 	width: 700px;
-	position: relative; /*idk if does anything*/
+	height: 30px;
+	position: absolute; ; /*idk if does anything*/
+	right: -230px;
+	bottom:-50px;
 
+}
+
+button {
+	right: -160px;
+	position: relative;
+	bottom: -30px;
 }
 
 .navbar{
 	float: right;
-	padding-right: 30px;
+	padding-right: 25px;
+
 }
+
+
 
 li{
 	display: inline-block;
-	width: 50px;
+	margin-right: 15px;
+	font-family: sans-serif;
+
+
+
+
+
 }
 
-ul {
+#topbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    	
 }
+
+.bottom{
+
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	height: 41px;
+	position: absolute;
+	bottom: 0;
+	width: 99.4%;
+	
+	overflow: hidden;
+}
+
+
+
+.right{
+	float: right;
+
+
+}
+
+
+div{
+	overflow: 0;
+}
+
