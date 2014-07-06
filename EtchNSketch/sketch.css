@@ -2,8 +2,27 @@
 a {
 	color: black;
 	text-decoration: none;
-	 
+
+}
+p{
+	text-align: center;
 }
 h2{
 	text-align: center;
+}
+
+.grid{
+	height:15px;
+	width:15px;
+	border: 1px solid gray;
+	display: inline-block;
+}
+
+#container {
+	/*border: 1px solid black; */
+	text-align: center;
+}
+
+.black {
+	background-color: black;
 }
