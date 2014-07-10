@@ -1,0 +1,78 @@
+.center {
+
+	position: absolute;
+    height: 200px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+
+	
+}
+
+input{
+	width: 700px;
+	height: 30px;
+	position: absolute; ; /*idk if does anything*/
+	right: -230px;
+	bottom:-50px;
+
+}
+
+button {
+	right: -160px;
+	position: relative;
+	bottom: -30px;
+}
+
+.navbar{
+	float: right;
+	padding-right: 25px;
+
+}
+
+
+
+li{
+	display: inline-block;
+	margin-right: 15px;
+	font-family: sans-serif;
+
+
+
+
+
+}
+
+#topbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    	
+}
+
+.bottom{
+
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	height: 41px;
+	position: absolute;
+	bottom: 0;
+	width: 99.4%;
+	
+	overflow: hidden;
+}
+
+
+
+.right{
+	float: right;
+
+
+}
+
+
+div{
+	overflow: 0;
+}
+
